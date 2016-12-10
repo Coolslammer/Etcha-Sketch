@@ -1,6 +1,26 @@
-#box {
-	height: 16px;
-	width: 16px;
-	display: inline-block;
+body{
+	background-color: #ECECEA;
+}
+
+#button{
+	margin: 50px auto 0px auto;
+	display: block;
+	cursor: pointer;
+}
+
+#container{
+	width: 500px;
+	height: 500px;
+	margin: 25px auto 10px auto;
 	border-color: black;
+	border-style: solid;
+
+}
+
+.screen{
+	height: 31.25px;
+	width: 31.25px;
+	background-color: grey;
+	float: left;
+
 }
